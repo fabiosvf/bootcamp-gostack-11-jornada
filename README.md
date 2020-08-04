@@ -11,7 +11,7 @@
   - [Desafio 02 - Conceitos do Node.js](https://github.com/fabiosvf/bootcamp-gostack-11-desafio-02-conceitos-do-node-js)
     - Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
   - [Front-end com ReactJS](https://github.com/fabiosvf/bootcamp-gostack-11-nivel-01-front-end-com-reactjs)
-    - Agora continuaremos na nossa jornada, conhecendo os primeiros conceitos do ReactJS. Devenvolveremos a nossa primeira aplicação web e vamos conecta-la no backend que criamos no último módulo.
+    - Agora continuaremos na nossa jornada, conhecendo os primeiros conceitos do ReactJS. Desenvolveremos a nossa primeira aplicação web e vamos conecta-la no backend que criamos no último módulo.
   - [Desafio 03 - Conceitos do ReactJS](https://github.com/fabiosvf/bootcamp-gostack-11-desafio-03-conceitos-do-reactjs)
     - Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
   - [Mobile com React Native](https://github.com/fabiosvf/bootcamp-gostack-11-nivel-01-mobile-com-react-native)
@@ -26,7 +26,7 @@
     - Nessa fase vamos aprender a configurar um projeto do total zero utilizando Node.js e TypeScript incluindo ferramentas como ts-node-des, ESLint Prettier, EditorConfig.
   - [Desafio 05 - Fundamentos Node.js (Primeiro projeto Node.js)](https://github.com/fabiosvf/bootcamp-gostack-11-desafio-05-primeiro-projeto-node-js)
     - Nesse desafio, você deve criar uma aplicação para continuar treinando o que você aprendeu até agora no Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
-  - Iniciando back-end do app
+  - [Iniciando back-end do app](https://github.com/fabiosvf/bootcamp-gostack-11-nivel-02-iniciando-back-end-do-app)
     - Nessa etapa vamos continuar os aprendizados com Node.js aproveitando o projeto desenvolvido até agora para começar a trabalhar com conceitos de banco de dados, autenticação, autorização, etc.
   - Desafio 06 - Database upload (Banco de dados e upload de arquivos no Node.js)
     - Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, treinando o que você aprendeu até agora no Node.js junto ao TypeScript, mas dessa vez incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer!
