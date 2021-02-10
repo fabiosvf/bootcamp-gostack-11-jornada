@@ -28,7 +28,7 @@
     - Nesse desafio, você deve criar uma aplicação para continuar treinando o que você aprendeu até agora no Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
   - [Iniciando back-end do app](https://github.com/fabiosvf/bootcamp-gostack-11-nivel-02-iniciando-back-end-do-app)
     - Nessa etapa vamos continuar os aprendizados com Node.js aproveitando o projeto desenvolvido até agora para começar a trabalhar com conceitos de banco de dados, autenticação, autorização, etc.
-  - Desafio 06 - Database upload (Banco de dados e upload de arquivos no Node.js)
+  - [Desafio 06 - Database upload (Banco de dados e upload de arquivos no Node.js)](https://github.com/fabiosvf/bootcamp-gostack-11-desafio-06-database-upload)
     - Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, treinando o que você aprendeu até agora no Node.js junto ao TypeScript, mas dessa vez incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer!
 
 ### Nível 03
