@@ -36,7 +36,7 @@
     - Nessa etapa daremos início ao aprendizado do ReactJS, criando o primeiro projeto já utilizando TypeScript. Nesse ponto o dev já deve conhecer os conceitos de componente, estado e propriedades mas eles serão lembrados durante as aulas.
   - [Desafio 07 - Fundamentos ReactJS (GoFinance Web)](https://github.com/fabiosvf/bootcamp-gostack-11-desafio-07-fundamentos-reactjs)
     - Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, a GoFinances. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
-  - Iniciando front-end web
+  - [Iniciando front-end web](https://github.com/fabiosvf/bootcamp-gostack-11-nivel-03-iniciando-front-end-web)
     - Durante esse módulo criaremos a versão web da aplicação GoBarber que será utilizada pelos usuários que prestam serviços dentro da aplicação.
   - Iniciando aplicativo mobile
     - Nesse módulo criaremos a versão mobile do GoBarber que será utilizada pelos usuários para agendar serviços dentro da plataforma.
