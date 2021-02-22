@@ -38,7 +38,7 @@
     - Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, a GoFinances. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
   - [Iniciando front-end web](https://github.com/fabiosvf/bootcamp-gostack-11-nivel-03-iniciando-front-end-web)
     - Durante esse módulo criaremos a versão web da aplicação GoBarber que será utilizada pelos usuários que prestam serviços dentro da aplicação.
-  - Iniciando aplicativo mobile
+  - [Iniciando aplicativo mobile](https://github.com/fabiosvf/bootcamp-gostack-11-nivel-03-iniciando-aplicativo-mobile)
     - Nesse módulo criaremos a versão mobile do GoBarber que será utilizada pelos usuários para agendar serviços dentro da plataforma.
   - Desafio 08 - Fundamentos do React-Native
     - Nesse desafio, desenvolverá uma nova aplicação, a GoMarketplace. Dessa vez é hora de você praticar o que você aprendeu até agora no React Native, junto com TypeScript, utilizando rotas, Async Storage e a Context API.
