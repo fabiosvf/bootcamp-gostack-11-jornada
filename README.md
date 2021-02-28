@@ -40,7 +40,7 @@
     - Durante esse módulo criaremos a versão web da aplicação GoBarber que será utilizada pelos usuários que prestam serviços dentro da aplicação.
   - [Iniciando aplicativo mobile](https://github.com/fabiosvf/bootcamp-gostack-11-nivel-03-iniciando-aplicativo-mobile)
     - Nesse módulo criaremos a versão mobile do GoBarber que será utilizada pelos usuários para agendar serviços dentro da plataforma.
-  - Desafio 08 - Fundamentos do React-Native
+  - [Desafio 08 - Fundamentos do React-Native](https://github.com/fabiosvf/bootcamp-gostack-11-desafio-08-fundamentos-react-native)
     - Nesse desafio, desenvolverá uma nova aplicação, a GoMarketplace. Dessa vez é hora de você praticar o que você aprendeu até agora no React Native, junto com TypeScript, utilizando rotas, Async Storage e a Context API.
 
 ### Nível 04
